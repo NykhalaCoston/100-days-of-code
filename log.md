@@ -3,11 +3,11 @@
 ### Day 0: March 5, 2017 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: 
+**Today's Progress**: Creating a demo phone app on free code camp using HTML and CSS. Going through the basics of layout and design.
 
-**Thoughts:** 
+**Thoughts:** Learning HTML and CSS seems pretty straight-forward. I know I can push myself to get through the first part to get to some more challenging sample projects. I don't really care too much for the automatic correction to my work, but it does teach me a lesson in how to organize and format the code to make it easier to edit. 
 
-**Link to work:** 
+**Link to work:** https://www.freecodecamp.com/challenges/add-a-submit-button-to-a-form
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
