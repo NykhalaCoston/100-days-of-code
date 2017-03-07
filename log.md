@@ -9,15 +9,14 @@
 
 **Link to work:** https://www.freecodecamp.com/challenges/add-a-submit-button-to-a-form
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learning the basics of HTML & CSS. I learned margin, padding, and I forgot the other because I'm tired. I also worked on strange kitty app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Managing my time has been a challenge. There are so many little things to focus on and distract me from doing real coding work and then I am wondering if I am really doing real coding work since I am learning the very beginning material of coding. I long to do something more challenging, but I know I have to prepare myself for it. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link(s) to work**: Not avaliable, too long link. 
 
 ### Day 1: June 27, Monday
 
