@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 5, 2017 (Example 1)
+### Day 0: March 5, 2017 HTML & CSS (FreeCodeCamp)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Creating a demo phone app on free code camp using HTML and CSS. Going through the basics of layout and design.
@@ -9,7 +9,7 @@
 
 **Link to work:** https://www.freecodecamp.com/challenges/add-a-submit-button-to-a-form
 
-### Day 2: February 30, 2016 (Example 2)
+### Day 2: February 30, 2016 HTML & CSS (FreeCodeCamp)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Learning the basics of HTML & CSS. I learned margin, padding, and I forgot the other because I'm tired. I also worked on strange kitty app.
