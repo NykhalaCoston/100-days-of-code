@@ -16,14 +16,12 @@
 
 **Thoughts**: Managing my time has been a challenge. There are so many little things to focus on and distract me from doing real coding work and then I am wondering if I am really doing real coding work since I am learning the very beginning material of coding. I long to do something more challenging, but I know I have to prepare myself for it. 
 
-**Link(s) to work**: Not avaliable, too long link. 
+**Link(s) to work**: Not avaliable. (project practice)
 
-### Day 1: June 27, Monday
+### Day 3: March 9, 2017, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed HTML&CSS basics in freecode and moved on to bootstrap.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I started coding earlier today and didn't not get to post until very late at night. Yet, its okay because I have accomplish a first small step towards understanding some basic code. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work** Not available. (project practice)
